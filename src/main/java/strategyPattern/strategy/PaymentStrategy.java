@@ -1,0 +1,7 @@
+package strategyPattern.strategy;
+
+public interface PaymentStrategy {
+
+    void pay(double amount);
+
+}
